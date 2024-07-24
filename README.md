@@ -1,0 +1,2 @@
+# Kattis
+Competitive programming
