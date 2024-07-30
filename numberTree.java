@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NumberTree {
+public class numberTree {
     /*
     The class name and file name has been reformatted, 
     feel free to change if you want to test my solution on Kattis
