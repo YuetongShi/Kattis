@@ -16,6 +16,5 @@ while N > 2:
 
 if N == 2:
     print("A")
-
-if N == 1:
+else:
     print("N")
